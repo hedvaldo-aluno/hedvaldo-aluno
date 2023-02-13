@@ -23,8 +23,8 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hedvaldo-aluno&theme=radical&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hedvaldo-aluno&theme=radical&include_all_commits=true&show_icons=true&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
+    
 ---
 
 Chamo-me Hedvaldo Costa, aluno de ciência da computação, 7º período (2020.1 - 2024.1), pelo Centro Universitário Tiradentes (UNIT).
