@@ -23,7 +23,7 @@
 
 ---
 
-![hedvaldo-aluno Status](https://github-readme-stats.vercel.app/api?username=hedvaldo-aluno&show_icons=true&theme=algolia)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hedvaldo-aluno&theme=radical&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
